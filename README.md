@@ -1,2 +1,2 @@
 # JetBrains
-JetBrains Academy conclude projects
+JetBrains Academy concluded projects
