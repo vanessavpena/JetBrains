@@ -1,2 +1,2 @@
-# JetBrains
-JetBrains Academy concluded projects
+# JetBrains Academy Cinema Rest Service Project
+Concluded project.
